@@ -1,0 +1,35 @@
+.vertical-subtraction {
+  margin-top: 20px;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+td {
+  font-size: 24px;
+  padding: 5px;
+  border: 1px solid #000;
+  width: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+}
+
+.expression {
+  margin-top: 20px;
+  font-size: 24px;
+  text-align: center;
+}
